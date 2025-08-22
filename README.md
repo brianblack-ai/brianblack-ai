@@ -1,3 +1,4 @@
+<img src="logo.png" alt="Profile_logo_256_256px" width="120"/>
 
 # Hi, I’m Brian 👋  
 
