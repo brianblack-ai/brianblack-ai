@@ -1,4 +1,7 @@
-![Brian Logo](brian_dev_gear_gradient_logo.png)
+<p align="center">
+  <img src="Profile_logo 256px_256px.png" width="120" alt="Profile logo">
+</p>
+
 
 
 
