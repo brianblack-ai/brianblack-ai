@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Profile_logo 256px_256px" width="120"/>
+<img src="logo.png" alt="Profile_logo 256px_256px.png" width="120"/>
 
 
 
