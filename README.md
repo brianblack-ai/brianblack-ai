@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="flying-cobra-circle-frame-logo.png" width="120" alt="Profile logo">
+  <img src="flying-cobras-circle-frame-logo.png" width="120" alt="Profile logo">
 </p>
 
 
