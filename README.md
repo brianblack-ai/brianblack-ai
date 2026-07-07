@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Profile_logo 256px_256px.png" width="120" alt="Profile logo">
+  <img src="flying-cobras-logo.png" width="120" alt="Profile logo">
 </p>
 
 
