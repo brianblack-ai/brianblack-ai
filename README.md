@@ -6,33 +6,103 @@
 
 
 
-# Hi, I’m Brian 👋  
+# Hi, I’m Brian 👋
 
-🚀 **DevOps-driven problem solver** focused on **automation, visibility, and scalable systems**.  
-I build lean, AI-enhanced project flows that make it easy for teams to stay aligned and hard for details to get lost.  
+🚀 **Technical systems builder focused on automation, operational intelligence, and scalable workflows.**
 
-💡 My work bridges **AV show control experience** (Crestron, integrated systems) with modern **DevOps practices**, turning field-tested workflows into digital automation engines.  
+I turn messy real-world operations into structured systems that are easier to understand, automate, and scale.
 
----
-
-## 🔧 What I Do  
-- **Automation Architect** → replacing bottlenecks with intelligent pipelines  
-- **Workflow Designer** → surfacing blockers instantly to kill the noise
-- **System Builder** → connecting the dots between hardware integration and software control  
+💡 My work bridges **20+ years of AV and live-production experience** with modern software architecture, AI-assisted development, cloud infrastructure, and DevOps practices.
 
 ---
 
-## ⚡ Current Projects  
-- 🦑 **Leviathan** → AI-powered AV sales & ops automation engine  
-- 📊 **Ops Dashboard** → turning sticky-note chaos into real-time clarity  
-- 🧩 **GitHub Labs** → sharpening my DevOps edge one commit at a time  
+## 🔧 What I Do
+
+- **Systems Architect** → translating operational reality into deterministic software
+- **Automation Builder** → replacing bottlenecks and manual handoffs with intelligent workflows
+- **Technical Program Manager** → aligning product vision, architecture, implementation, and execution
+- **Domain Expert** → bringing field-tested AV and production judgment into software design
 
 ---
 
-## 📫 Connect with Me  
-- 🌐 [Portfolio Website](https://brianblack.ai) _(soon)_  
-- 💼 [LinkedIn](https://www.linkedin.com/in/brian-black-tpm)  
-- 🛠️ GitHub (you’re here)  
+## ⚡ Current Projects
+
+- 🌊 **BidWave** → deterministic AV quoting and labor intelligence engine built around one principle: **Reality Before Pricing**
+- 📡 **Ops Watch** → CI/CD uptime monitoring with automated health checks and Slack alerting
+- 🧠 **AI-Assisted Engineering Systems** → exploring how human domain expertise and specialized AI collaborators can build governed, explainable software
+
+---
+
+## 🌊 Building BidWave
+
+BidWave began as a spreadsheet-driven AV estimating system.
+
+It has evolved into a multi-domain software platform that models operational reality before deriving labor and pricing.
+
+Current domains:
+
+- Audio
+- Video
+- LED Wall
+
+The project now includes:
+
+- deterministic labor modeling
+- cross-domain crew consolidation
+- operational review advisories
+- multi-tenant architecture
+- full-stack quote workflows
+- 579+ automated tests
+- Executive Decision Records (EDRs)
+- a formal AI-assisted governance model
+
+**The goal is not to automate judgment. It is to encode good judgment into systems that can explain themselves.**
+
+---
+
+## 🧭 How I Build
+
+**Reality → Model → Logic → Automation → Outcome**
+
+I believe:
+
+- operational truth should come before software convenience
+- explainability beats black-box cleverness
+- automation should remove friction, not human judgment
+- architecture should preserve the *why*, not just the *what*
+- AI works best as a specialized collaborator, not a magic button
+
+---
+
+## 🛠️ Working With
+
+**Product & Engineering**
+
+Next.js · React · Python · APIs · GitHub Actions · Vercel
+
+**Cloud & Automation**
+
+AWS · GCP · CI/CD · Slack · Google Sheets API · Resend · Zapier · Make
+
+**Operations & Delivery**
+
+Technical Program Management · Systems Architecture · Workflow Design · AV Production
+
+---
+
+## 📬 Connect with Me
+
+- 🌐 **Portfolio:** brianblack.ai
+- 💼 **LinkedIn:** brian-black-tpm
+- 🐙 **GitHub:** You’re already here
+
+---
+
+## ⚙️ Philosophy
+
+> Build systems that make it easy for teams to stay aligned—and hard for important details to get lost.
+
+Currently building at the intersection of **domain expertise, deterministic software, and AI-assisted engineering.**
 
 ---
 
